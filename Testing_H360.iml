@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/Software/lib/lib/testng-7.1.0.jar!/" />
+          <root url="jar://D:/Software/lib/lib/snakeyaml-1.21.jar!/" />
+          <root url="jar://D:/Software/lib/lib/jcommander-1.72.jar!/" />
+          <root url="jar://D:/Software/lib/lib/javax.inject-1.jar!/" />
+          <root url="jar://D:/Software/lib/lib/aopalliance-1.0.jar!/" />
+          <root url="jar://D:/Software/lib/lib/guava-19.0.jar!/" />
+          <root url="jar://D:/Software/lib/lib/guice-4.1.0-no_aop.jar!/" />
+          <root url="file://D:/Software" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://D:/Software/lib/lib/snakeyaml-1.21-javadoc.jar!/" />
+          <root url="jar://D:/Software/lib/lib/guava-19.0-javadoc.jar!/" />
+          <root url="jar://D:/Software/lib/lib/guice-4.1.0-javadoc.jar!/" />
+          <root url="jar://D:/Software/lib/lib/javax.inject-1-javadoc.jar!/" />
+          <root url="file://D:/Software/commons-lang3-3.11-bin/commons-lang3-3.11/apidocs" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://D:/Software/lib/lib/testng-7.1.0-sources.jar!/" />
+          <root url="jar://D:/Software/lib/lib/snakeyaml-1.21-sources.jar!/" />
+          <root url="jar://D:/Software/lib/lib/jcommander-1.72-sources.jar!/" />
+          <root url="jar://D:/Software/lib/lib/aopalliance-1.0-sources.jar!/" />
+          <root url="jar://D:/Software/lib/lib/guava-19.0-sources.jar!/" />
+          <root url="jar://D:/Software/lib/lib/guice-4.1.0-sources.jar!/" />
+          <root url="jar://D:/Software/lib/lib/javax.inject-1-sources.jar!/" />
+          <root url="file://D:/Software" />
+          <root url="file://D:/Software/android_sdk/sdk/sources/android-30" />
+          <root url="file://D:/Software/android_sdk/sdk/tools/proguard/examples/annotations/examples" />
+          <root url="file://D:/Software/android_sdk/sdk/tools/proguard/examples/annotations/src" />
+        </SOURCES>
+        <jarDirectory url="file://D:/Software" recursive="false" />
+        <jarDirectory url="file://D:/Software" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" exported="" name="java-client-7.4.1-all" level="project" />
+    <orderEntry type="library" exported="" name="byte-buddy-1.8.15" level="project" />
+  </component>
+</module>
